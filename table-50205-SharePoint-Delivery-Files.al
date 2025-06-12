@@ -1,4 +1,4 @@
-table 50205 "SharePoint Delivery Files"
+table 50225 "SharePoint Delivery Files"
 {
     DataClassification = CustomerContent;
 

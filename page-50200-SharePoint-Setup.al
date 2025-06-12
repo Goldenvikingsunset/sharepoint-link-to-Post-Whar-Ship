@@ -1,4 +1,4 @@
-page 50200 "SharePoint Setup"
+page 50230 "SharePoint Setup"
 {
     ApplicationArea = All;
     Caption = 'SharePoint Setup';

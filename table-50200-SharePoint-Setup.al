@@ -1,4 +1,4 @@
-table 50200 "SharePoint Setup"
+table 50230 "SharePoint Setup"
 {
     DataClassification = CustomerContent;
 

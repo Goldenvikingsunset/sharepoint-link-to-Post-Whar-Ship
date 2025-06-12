@@ -1,4 +1,4 @@
-codeunit 50200 "SharePoint Auth"
+codeunit 50230 "SharePoint Auth"
 {
     procedure GetOAuthToken() AuthToken: SecretText
     var
